@@ -99,31 +99,5 @@
 																				                           &trans                &trans
 			>;
 		};
-		layer_7 {
-			bindings = <
-				&bootloader
-				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
-																                           &trans          &trans                &trans                &trans
-													      			  &trans               &trans          &trans                &trans                &trans          &trans
-																				                           &trans                &trans
-			>;
-		};
-		layer_8 {
-			bindings = <
-				&bootloader
-				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
-																                           &trans          &trans                &trans                &trans
-													      			  &trans               &trans          &trans                &trans                &trans          &trans
-																				                           &trans                &trans
-			>;
-		};
 	};
 };
