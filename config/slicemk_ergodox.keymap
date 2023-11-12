@@ -91,7 +91,7 @@
 				&bootloader
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &trans          &trans           &trans       &trans            &trans             &trans
+				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LBRC        &kp TILDE        &kp PIPE     &kp RBRC          &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
 																                           &trans          &trans                &trans                &trans
