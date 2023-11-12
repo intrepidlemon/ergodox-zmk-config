@@ -52,7 +52,7 @@
 				&bootloader
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LBKT        &kp MINUS        &kp EQUAL    &kp RBKT          &trans             &trans
+				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LPAR        &kp MINUS        &kp EQUAL    &kp RPAR          &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
 																                           &trans          &trans                &trans                &trans
@@ -65,7 +65,7 @@
 				&bootloader
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LPAR        &kp BSLH         &kp FSLH     &kp RPAR          &trans             &trans
+				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LBRC        &kp BSLH         &kp FSLH     &kp RBRC          &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
 																                           &trans          &trans                &trans                &trans
@@ -78,7 +78,7 @@
 				&bootloader
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LT          &kp GRAVE        &kp UNDER    &kp GT            &trans             &trans
+				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LBKT        &kp GRAVE        &kp UNDER    &kp RBKT          &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
 																                           &trans          &trans                &trans                &trans
@@ -91,7 +91,7 @@
 				&bootloader
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
-				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LBRC        &kp TILDE        &kp PIPE     &kp RBRC          &trans             &trans
+				&trans       &trans       &trans         &trans       &trans               &trans                                                      &kp LT          &kp TILDE        &kp PIPE     &kp GT            &trans             &trans
 				&trans       &trans       &trans         &trans       &trans               &trans          &trans                &trans                &trans          &trans           &trans       &trans            &trans             &trans
 				&trans       &trans       &trans         &trans       &none                                                                                            &none            &trans       &trans            &trans             &trans
 																                           &trans          &trans                &trans                &trans
